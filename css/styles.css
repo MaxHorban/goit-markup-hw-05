@@ -138,8 +138,6 @@ img {
 
 .logo-link {
     margin-right: 93px;
-    padding-top: 24px;
-    padding-bottom: 25px;
     color: var(--nav-text-color);
     font-family: var(--secondary-font);
     font-weight: 700;
